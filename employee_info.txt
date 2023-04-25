@@ -1,0 +1,14 @@
+=============================================================
+			EMPLOYEE INFO
+=============================================================
+
+-------------------------------------------------------------
+Name			Mobile Number		Position
+-------------------------------------------------------------
+
+Jashim Molla		01397645884		Carpentar
+Karim Sowdagor		01246587754		Secretary
+Milton Kumar		01542659898		Carpentar
+Jalil Hossain		015457872647		Manager
+Hiron Bishwas		01598254788		Carpentar
+Karim Miya		01587446555		Sr. Manger

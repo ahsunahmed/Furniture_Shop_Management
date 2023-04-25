@@ -1,0 +1,91 @@
+=============================================================
+			CUSTOMER INVOICES
+=============================================================
+Customer Name: Ahsun Ahmed
+Customer Mobile Number: 01867824577
+
+Product Name		Quantity		Product Price
+RFL Chair		4			1250Tk
+Hatil Bed		1			22500Tk
+Tanin Dine		1			10200Tk
+Deshi Table		1			4600Tk
+
+Total Price: 					42300Tk
+
+
+-------------------------------------------------------------------------------------
+
+
+Customer Name: Masud Sepai
+Customer Mobile Number: 0183924577
+
+Product Name		Quantity		Product Price
+Wood Dine		1			12500Tk
+Wooden Chair		6			800Tk
+
+Total Price: 					17300Tk
+
+
+-------------------------------------------------------------------------------------
+
+
+Customer Name: Rahim Ali
+Customer Mobile Number: 01867824577
+
+Product Name		Quantity		Product Price
+Bengal Table		4			1360Tk
+Tanin Chair		12			750Tk
+
+Total Price: 					14440Tk
+
+
+-------------------------------------------------------------------------------------
+
+
+Customer Name: Basic Miya
+Customer Mobile Number: 01856784544
+
+Product Name		Quantity		Product Price
+Hatil Chair		1			1250Tk
+
+Total Price: 					1250Tk
+
+
+-------------------------------------------------------------------------------------
+
+
+Customer Name: Halim Sepai
+Customer Mobile Number: 01547368977
+
+Product Name		Quantity		Product Price
+AKA Table		4			1250Tk
+
+Total Price: 					5000Tk
+
+
+-------------------------------------------------------------------------------------
+
+
+Customer Name: Hashem Akondo
+Customer Mobile Number: 01867824577
+
+Product Name		Quantity		Product Price
+DT Table		1			4800Tk
+
+Total Price: 					4800Tk
+
+
+-------------------------------------------------------------------------------------
+
+
+Customer Name: Ahsun Ahmed
+Customer Mobile Number: 01867824577
+
+Product Name		Quantity		Product Price
+Sofa Set		1			12500Tk
+
+Total Price: 					12500Tk
+
+
+-------------------------------------------------------------------------------------
+
